@@ -1,0 +1,25 @@
+{
+  "name": "경찰시험 통합 학습관리표",
+  "short_name": "경찰시험",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#203b50",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./police-icon-v7-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./police-icon-v7-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

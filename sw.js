@@ -1,11 +1,11 @@
-const CACHE_NAME = "police-study-v6-icon-20261127";
+const CACHE_NAME = "police-study-v7-icon-20261127";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./manifest.webmanifest",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
-  "./icons/apple-touch-icon.png"
+  "./police-app-v7.webmanifest",
+  "./police-icon-v7-192.png",
+  "./police-icon-v7-512.png",
+  "./police-icon-v7-180.png"
 ];
 
 self.addEventListener("install", event => {
