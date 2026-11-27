@@ -1,4 +1,4 @@
-const CACHE_NAME = "police-study-v5-20261127";
+const CACHE_NAME = "police-study-v6-icon-20261127";
 const APP_FILES = [
   "./",
   "./index.html",
